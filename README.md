@@ -1,4 +1,4 @@
-# [Project 1 - Finding Donors for CharityML](001-supervised-learning/finding_donors.html)
+# [Project 1 - Finding Donors for CharityML](001-supervised-learning/)
 
 ## Project Overview
 
@@ -92,7 +92,7 @@ Using only the top 5 predictors, the model achieved:
 - **Accuracy**: 84.08% (vs. 86.67% on full dataset).
 - **F-beta**: 0.6972 (vs. 0.7432 on full dataset).
 
-# [Project 2 - CIFAR-10 Image Classifier](002-nn-with-pytorch/CIFAR-10_Image_Classifier-SOLUTION.html)
+# [Project 2 - CIFAR-10 Image Classifier](002-nn-with-pytorch/)
 
 This repository contains a convolutional neural network (CNN) designed to classify images from the **CIFAR-10 dataset**. The model was implemented using PyTorch and evaluates the performance on the standard CIFAR-10 dataset after optimization. The final model achieves a test accuracy of **71.26%**, which meets the project objective of exceeding 70%.
 
